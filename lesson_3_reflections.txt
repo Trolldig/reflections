@@ -17,3 +17,7 @@ You can see what you have changed since pulling/pushing the repository.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Managementtools like Trello. Diff could be used, but it would be harder without automatic version control.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I'm not finished with the change when commiting and I don't want to have a conflict with an other person which might make a similiar change. If you change directly on the master branch you don't have to deal with merging errors.
